@@ -3,14 +3,14 @@ body {
   background: #F7F8FA;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #434E5E;
+  color: #66bb6a;
 }
 .badge-primary {
     color: #fff;
-    background-color: #434E5E;
+    background-color: #66bb6a;
 }
 .theme-bg-primary {
-  background-color: #434E5E;
+  background-color: #66bb6a;
 }
 
 .theme-bg-primary-darken {
@@ -35,7 +35,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 }
 
 .theme-progress-bar-dark {
-  background-color: #434E5E;
+  background-color: #66bb6a;
 }
 
 .resume-wrapper {
@@ -48,7 +48,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 }
 
 .resume-header {
-  background: #434E5E;
+  background: #66bb6a;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
@@ -67,8 +67,8 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
   font-size: 1.5rem;
 }
 
-.resume-header a {
-  color: rgba(255, 255, 255, 0.6);
+.resume-header a, .resume-header li {
+  color: #98ee99;
 }
 
 .resume-header a:hover {
@@ -86,13 +86,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
   height: 24px;
   border-radius: 0.125rem;
   background: white;
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-section-title:after {
@@ -102,11 +102,11 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
   bottom: 0;
   width: 100%;
   height: 1.5px;
-  background: #8d9aad;
+  background: #338a3e;
 }
 
 .resume-section-content {
-  color: #58677c;
+  color: #999999;
 }
 
 .resume-timeline {
@@ -118,7 +118,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #aab4c3;
+  background: #66bb6a;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -132,7 +132,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #58677c;
+  border: 4px solid #338a3e;
   background: white;
   border-radius: 50%;
 }
@@ -142,7 +142,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 }
 
 .resume-company-name {
-  color: #58677c;
+  color: #338a3e;
   font-size: 0.875rem;
   font-weight: 500;
 }
@@ -154,7 +154,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-timeline-item-desc-heading {
@@ -163,16 +163,16 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 
 .resume-skills-cat {
   font-size: 1rem;
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-skill-name {
   font-size: 0.8125rem;
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-degree {
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-degree-org {
@@ -192,7 +192,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 
 .resume-award-name {
   font-weight: bold;
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .resume-award-desc {
@@ -200,7 +200,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active,
 }
 
 .resume-lang-name {
-  color: #434E5E;
+  color: #66bb6a;
 }
 
 .footer .fa-heart {
